@@ -1,0 +1,14 @@
+.footer {
+    text-align: center;
+    padding: 40px;
+    background-color: #1EDD88;
+
+}
+
+div {
+    display: block;
+}
+
+.footer .fa-heart {
+  color: #D23333;
+}

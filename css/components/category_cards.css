@@ -1,0 +1,11 @@
+
+.category_cards {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+div {
+    display: block;
+}
+
